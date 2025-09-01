@@ -1,0 +1,459 @@
+---
+name: Pb205
+mean_life: 25000000
+groups:
+  - s
+abundance:
+  s:
+    - 1.0e-3
+x_sigma: 1
+reference:
+  s:
+    - 0.167
+y_err:
+  s:
+    - 4.0e-4
+x_err:
+  s:
+    - 1.0e+6
+x_label_mult:
+  s: 0.5
+y_label_mult:
+  s: 1.1
+label:
+  s: $^{205}$Pb
+---
+name: Pd107
+mean_life: 9377517
+groups:
+  - s
+abundance:
+  s:
+    - 6.6e-5
+x_sigma: 1
+reference:
+  s:
+    - 0.097
+    - 0.099
+    - 0.117
+y_err:
+  s:
+    - 4.0e-6
+x_err:
+  s:
+    - 4.33e+5
+x_label_mult:
+  s: 1.1
+y_label_mult:
+  s: 0.8
+label:
+  s: $^{107}$Pd
+---
+name: Hf182
+mean_life: 12839970
+groups:
+  - s
+abundance:
+  s:
+    - 1.018e-4
+x_sigma: 1
+reference:
+  s:
+    - 0.091
+    - 0.089
+    - 0.100
+y_err:
+  s:
+    - 4.3e-6
+x_err:
+  s:
+    - 1.30e+5
+x_label_mult:
+  s: 1.1
+y_label_mult:
+  s: 1.1
+label:
+  s: $^{182}$Hf
+---
+name: Cs135
+mean_life: 1900000
+groups:
+  - s_Cs
+abundance:
+  s_Cs:
+    - 2.8e-6
+x_sigma: 1
+reference:
+  s_Cs:
+    - 1
+y_err:
+  s_Cs:
+    - 1
+    - 0
+x_err:
+  s_Cs:
+    - 0
+    - 0
+x_label_mult:
+  s_Cs: 1.1
+y_label_mult:
+  s_Cs: 1
+label:
+  s_Cs: $^{135}$Cs
+---
+name: Nb92
+mean_life: 50096140
+groups:
+  - p
+abundance:
+  p:
+    - 1.57e-5
+x_sigma: 1
+reference:
+  p:
+    - 0.0015
+y_err:
+  p:
+    - 9.0e-7
+x_err:
+  p:
+    - 3.46e+6
+x_label_mult:
+  p: 0.8
+y_label_mult:
+  p: 1.15
+label:
+  p: $^{92}$Nb
+---
+name: Sm146
+mean_life: 103500000
+groups:
+  - p
+abundance:
+  p:
+    - 8.28e-3
+x_sigma: 2
+reference:
+  p:
+    - 0.35
+y_err:
+  p:
+    - 4.4e-4
+x_err:
+  p:
+    - 3.75e+6
+x_label_mult:
+  p: 0.5
+y_label_mult:
+  p: 1.1
+label:
+  p: $^{146}$Sm
+---
+name: Tc97
+mean_life: 5940000
+groups:
+  - p_Tc
+abundance:
+  p_Tc:
+    - 1.1e-5
+x_sigma: 1
+reference:
+  p_Tc:
+    - 2.3945e-2
+y_err:
+  p_Tc:
+    - 1
+    - 0
+x_err:
+  p_Tc:
+    - 4.3e-5
+x_label_mult:
+  p_Tc: 0.4
+y_label_mult:
+  p_Tc: 0.9
+label:
+  p_Tc: $^{97}$Tc
+---
+name: Tc98
+mean_life: 6100000
+groups:
+  - p_Tc
+abundance:
+  p_Tc:
+    - 6.0e-5
+x_sigma: 1
+reference:
+  p_Tc:
+    - 4.225e-4
+y_err:
+  p_Tc:
+    - 100
+    - 0
+x_err:
+  p_Tc:
+    - 3.0e-5
+x_label_mult:
+  p_Tc: 1
+y_label_mult:
+  p_Tc: 0.6
+label:
+  p_Tc: $^{98}$Tc
+---
+name: I129
+mean_life: 22650312
+groups:
+  - r
+abundance:
+  r:
+    - 1.28e-4
+x_sigma: 1
+reference:
+  r:
+    - 1.28
+y_err:
+  r:
+    - 3.0e-6
+x_err:
+  r:
+    - 5.66e+5
+x_label_mult:
+  r: 1.05
+y_label_mult:
+  r: 1.1
+label:
+  r: $^{129}$I
+---
+name: Cm247
+mean_life: 22506042
+scenario_error:
+  - 0.12407
+  - 0.1174
+k:
+  - 1.1
+  - 1.2
+  - 1.8
+groups:
+  - r
+abundance:
+  r:
+    - 5.6e-5
+x_sigma: 1
+reference_mean_life: 1.015e+9
+reference:
+  r:
+    - 0.30
+y_err:
+  r:
+    - 3.0e-6
+x_err:
+  r:
+    - 7.21e+5
+x_label_mult:
+  r: 1.05
+y_label_mult:
+  r: 1.1
+label:
+  r: $^{247}$Cm
+---
+name: Al26
+mean_life: 1034412
+groups:
+  - VR
+abundance:
+  VR:
+    - 0.00494078
+    - 0.02765092
+x_label_mult:
+  VR: 1.1e+6
+y_label_mult:
+  VR: 0.016
+label:
+  VR: $^{26}$Al
+---
+name: Cl36
+mean_life: 4.34e+5
+groups:
+  - VR
+abundance:
+  VR:
+    - 1.08e-3
+    - 4.74e-3
+x_label_mult:
+  VR: 4.5e+5
+y_label_mult:
+  VR: 3.0e-3
+label:
+  VR: $^{36}$Cl
+---
+name: Ca41
+mean_life: 1.43e+5
+groups:
+  - VR
+abundance:
+  VR:
+    - 1.96e-6
+    - 4.34e-5
+x_label_mult:
+  VR: 1.5e+5
+y_label_mult:
+  VR: 2.0e-5
+label:
+  VR: $^{41}$Ca
+---
+name: Mn53
+mean_life: 5395679
+groups:
+  - SN
+  - SN_Trueman_R
+  - SN_Trueman_N13
+  - SN_Trueman_R_noMn
+  - SN_Trueman_N13_noMn
+abundance:
+  SN:
+    - 7.0e-6
+  SN_Trueman_R:
+    - 7.0e-6
+  SN_Trueman_N13:
+    - 7.0e-6
+  SN_Trueman_R_noMn:
+    - 7.0e-6
+  SN_Trueman_N13_noMn:
+    - 7.0e-6
+x_sigma: 1
+reference:
+  SN:
+    - 0.134
+  SN_Trueman_R:
+    - 0.1989
+    - 0.1493
+    - 0.1155
+  SN_Trueman_N13:
+    - 0.1871
+    - 0.1445
+    - 0.1172
+  SN_Trueman_R_noMn:
+    - 7.9e-2
+    - 6.44e-2
+    - 5.79e-2
+  SN_Trueman_N13_noMn:
+    - 5.85e-2
+    - 4.90e-2
+    - 4.7e-2
+y_err:
+  SN:
+    - 1.0e-6
+  SN_Trueman_R:
+    - 1.0e-6
+  SN_Trueman_N13:
+    - 1.0e-6
+  SN_Trueman_R_noMn:
+    - 1.0e-6
+  SN_Trueman_N13_noMn:
+    - 1.0e-6
+x_err:
+  SN:
+    - 5.77e+4
+  SN_Trueman_R:
+    - 5.77e+4
+  SN_Trueman_N13:
+    - 5.77e+4
+  SN_Trueman_R_noMn:
+    - 5.77e+4
+  SN_Trueman_N13_noMn:
+    - 5.77e+4
+x_label_mult:
+  SN: 1.2
+  SN_Trueman_R: 1.1
+  SN_Trueman_N13: 1.1
+y_label_mult:
+  SN: 0.8
+  SN_Trueman_R: 1.0
+  SN_Trueman_N13: 2.0
+label:
+  SN: $^{53}$Mn
+  SN_Trueman_R: $^{53}$Mn$_{R}$
+  SN_Trueman_N13: $^{53}$Mn$_{N13}$
+---
+name: Fe60
+mean_life: 3785632
+groups:
+  - SN
+  - SN_Trueman_R
+  - SN_Trueman_N13
+abundance:
+  SN:
+    - 1.01e-8
+  SN_Trueman_R:
+    - 7.71e-9
+  SN_Trueman_N13:
+    - 7.71e-9
+x_sigma: 1
+reference:
+  SN:
+    - 1.76e-4
+  SN_Trueman_R:
+    - 1.445e-4
+    - 1.298e-4
+    - 1.237e-4
+  SN_Trueman_N13:
+    - 8.63e-5
+    - 8.04e-5
+    - 7.48e-5
+y_err:
+  SN:
+    - 2.7e-9
+  SN_Trueman_R:
+    - 4.7e-10
+  SN_Trueman_N13:
+    - 4.7e-10
+x_err:
+  SN:
+    - 5.77e+4
+  SN_Trueman_R:
+    - 5.77e+4
+  SN_Trueman_N13:
+    - 5.77e+4
+x_label_mult:
+  SN: 0.5
+  SN_Trueman_R: 0.4
+  SN_Trueman_N13: 0.4
+y_label_mult:
+  SN: 0.8
+  SN_Trueman_R: 1.1
+  SN_Trueman_N13: 1.2
+label:
+  SN: $^{60}$Fe
+  SN_Trueman_R: $^{60}$Fe$_{R}$
+  SN_Trueman_N13: $^{60}$Fe$_{N13}$
+---
+name: Pu244
+mean_life: 115410000
+scenario_error:
+  - 0.0266
+  - 0.0266
+k:
+  - 1.5
+  - 1.9
+  - 4.1
+groups:
+  - Pu
+abundance:
+  Pu:
+    - 7.0e-3
+x_sigma: 1
+reference_mean_life: 4.468e+9
+reference:
+  Pu:
+    - 0.33
+y_err:
+  Pu:
+    - 1.0e-3
+x_err:
+  Pu:
+    - 1.3e+6
+x_label_mult:
+  Pu: 0.9
+y_label_mult:
+  Pu: 0.65
+label:
+  Pu: $^{244}$Pu
