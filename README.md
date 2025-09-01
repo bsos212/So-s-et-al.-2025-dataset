@@ -2,7 +2,7 @@ This Python script can create plots similar to the ones in Soós et al. 2025
 
 This code was developed by:
 
-Andrés Yagüe López (https://github.com/AndresYague)
+Andrés Yagüe López (https://github.com/AndresYague) and
 Benjámin Soós (https://github.com/bsos212)
 
 ==========How to use=========
