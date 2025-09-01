@@ -11,8 +11,8 @@ Simply run the script:
 
 -python3.8 SLRsVSmeanlife.py
 
-This script plots the predicted and observed radioactive-to-stable abundance ratios in the ESS divided by their stellar production ratios, against the respective mean life of the SLRs (for a more detailed description of the plot see Soós et al. 2025).
+This script plots the predicted and observed radioactive-to-stable abundance ratios in the early Solar System (ESS) divided by their stellar production ratios, against the respective mean life of the SLRs (for a more detailed description of the plot see Soós et al. 2025).
 
 -isotope_data.yaml
 
-This file contains all the necessary data for the code SLRsVSmeanlife.py. 
+This file contains all the necessary data for the code SLRsVSmeanlife.py, such as the name of the isotope, it's ESS abundance (with error bars), production ratio, mean life (with error bars), label specifics, and other information. 
