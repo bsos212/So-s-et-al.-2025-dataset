@@ -1,9 +1,11 @@
 This Python script can create plots similar to the ones in Soós et al. 2025
 
-This code was developed by:
-
-Andrés Yagüe López (https://github.com/AndresYague) and
-Benjámin Soós (https://github.com/bsos212)
+Co-authored-by: Andrés Yagüe López (https://github.com/AndresYague) 
+                Affiliation: Los Alamos National Laboratory, Los Alamos, NM 87545, USA 
+                ORCID: https://orcid.org/0000-0002-7294-9288
+Co-authored-by: Benjámin Soós (https://github.com/bsos212)
+                Affiliation: Konkoly Observatory, HUN-REN, Konkoly Thege Miklós út 15-17, Budapest, H-1121, Hungary.
+                ORCID: https://orcid.org/0000-0002-2503-4181
 
 ==========How to use=========
 
